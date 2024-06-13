@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geskha
 - 👀 I’m interested in Coding and Design
-- 🌱 I’m currently learning React and many framework
+- 🌱 I’m currently learning Laravel, NextJS and Flutter
 - 💞️ I’m looking to collaborate on Coding
 
 <!---
